@@ -1,7 +1,7 @@
 ## Hi, I'm Jacob👋
 
 ## About Me
-Currently taking CSC 134 (C++ programming) and CSC 151 (Java programming)
+Currently taking CSC 134 (C++ Programming) and CSC 151 (Java Programming) at FTCC
 
 ## My Foo
 Obviously, I am passionate about programming and computer science in general, but also language learning.
