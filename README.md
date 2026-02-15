@@ -21,6 +21,7 @@ C++, C, Java, Rust, Python
 
 Natural:
 English (Native) | Russian (В1) | Spanish (A2)
+
 Goal: Russian Fluency via immersion in Bishkek, Kyrgyzstan
 
 ## 🎯 Career Path
