@@ -38,6 +38,6 @@ Long-term targets:
 
     🤼 I'm a massive WWE fan (Stone Cold is the GOAT)
     🎧 I listen to Bladee/Drain Gang while coding
-    🇷🇺 I want to spend a year in Bishkek for Russian immersion
+    🇰🇬 I want to spend a year in Bishkek for Russian immersion
     📊 I'm Excel-certified (yes, really)
     🏋️ I believe in the "Top 5% Math Exam" flex
