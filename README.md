@@ -17,7 +17,7 @@
 ## 🌍 Languages (Human & Machine)
 
 Programming:
-C++, C, Java, Rust, Python
+C++ | C | Java | Rust | Python
 
 Natural:
 English (Native) | Russian (В1) | Spanish (A2)
