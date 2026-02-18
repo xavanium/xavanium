@@ -1,4 +1,4 @@
-# 👋 Jacob | Systems Programmer | Russian Speaker | Genetic Freak
+# 👋 Jacob | Systems Programmer | Russian Speaker
 
 ## 📚 Currently Taking
 
