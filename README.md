@@ -5,7 +5,7 @@
     CSC 134 – C++ Programming (FTCC)
     CSC 151 – Java Programming (FTCC)
     AP Pre-Calculus – Logic & Functions
-    Planning to take CS50 over the summer!
+    CS50 - Harvard's Introductory Computer Science Course
     
 ## 🛠️ What I'm Building
 
