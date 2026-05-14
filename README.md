@@ -29,7 +29,7 @@ I'm aiming for a career at the intersection of systems programming and cybersecu
 
 Long-term targets:
 
-    Reverse engineering & malware analysis
+    Cryptography
     Nation-state threat intelligence
     Open-source security tools (compilers, OS kernels, network security)
     
