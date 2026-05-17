@@ -1,4 +1,4 @@
-# 👋 Jacob | Systems Programmer | Russian Speaker
+# 👋 Jacob | Cryptographer | Russian Speaker
 
 ## 📚 Currently Taking
 
