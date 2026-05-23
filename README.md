@@ -1,41 +1,56 @@
-# 👋 Jacob | Cryptographer | Russian Speaker
+# Jacob | Lattice Cryptography | PhD Track | Russian Speaker
 
-## 📚 Currently Taking
+## 📐 Research Interests
 
-    CSC 134 – C++ Programming (FTCC)
-    CSC 151 – Java Programming (FTCC)
-    AP Pre-Calculus – Logic & Functions
-    CS50 - Harvard's Introductory Computer Science Course
-    
-## 🛠️ What I'm Building
+```
+Lattice-based cryptography & post-quantum security
+Learning With Errors (LWE) and its variants (RLWE, MLWE)
+Provable security & formal hardness reductions
+NIST PQC standards (ML-KEM, ML-DSA, SLH-DSA)
+```
 
-    🦀 Rust-based CLI tools (memory allocators, file parsers)
-    🐍 Automation scripts (Excel macros, data processing)
-    🇷🇺 Russian language tooling (Anki decks, grammar automations)
-    🔐 Cybersecurity side projects (threat intelligence, malware analysis prep)
+## 📚 Currently Studying
+
+```
+CSC 134 – C++ Programming (FTCC)
+CSC 151 – Java Programming (FTCC)
+AP Pre-Calculus → building toward linear algebra & number theory
+CS50 - Harvard's Introductory Computer Science Course
+```
+
+## 📖 Working Through
+
+```
+"An Introduction to Mathematical Cryptography" – Hoffstein, Pipher & Silverman
+Linear algebra & abstract algebra (foundations for lattice theory)
+```
 
 ## 🌍 Languages (Human & Machine)
 
-Programming:
-C++ | C | Java | Rust | Python
+```
+Programming: Rust | C | C++ | Python | Java
+Natural:     English (Native) | Russian (В1) | Spanish (A2)
+Goal:        Russian fluency via immersion in Bishkek, Kyrgyzstan
+```
 
-Natural:
-English (Native) | Russian (В1) | Spanish (A2)
+## 🎯 Trajectory
 
+```
+B.S. Computer Science → Ph.D. in cryptography, specializing in lattice-based PQC
+Research focus: hardness assumptions, security proofs, lattice constructions
+Long-term: academic research or cryptography standards (NIST, IACR)
+```
 
-## 🎯 Career Path
+## ⚙️ Background
 
-I'm aiming for a career at the intersection of systems programming and cybersecurity, with a focus on roles that require both deep technical expertise and foreign language skills (specifically Russian).
+Started in systems programming and low-level security (C, Rust, OS internals).
+That foundation informs how I think about the gap between theoretical
+constructions and real-world implementations — useful for a theorist to understand.
 
-Long-term targets:
+## 🎮 A Few Other Things
 
-    Cryptography
-    Nation-state threat intelligence
-    Open-source security tools (compilers, OS kernels, network security)
-    
-  ## 🎮 Fun Facts
-
-    🤼 I'm a massive WWE fan (Stone Cold is the GOAT)
-    🎧 I listen to Bladee/Drain Gang while coding
-    📊 I'm Excel-certified (yes, really)
-    🏋️ I believe in the "Top 5% Math Exam" flex
+```
+🤼 Massive WWE fan (Stone Cold is the GOAT)
+🎧 Bladee/Drain Gang is the coding soundtrack
+📊 Excel-certified (yes, really)
+```
