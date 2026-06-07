@@ -1,4 +1,4 @@
-# Jacob | Lattice Cryptography | PhD Track | Russian Speaker
+# Jacob ⚛️ | Lattice Cryptography 🔒 | PhD Track 🧠 | Russian Speaker 🇰🇿
 
 ## 📐 Research Interests
 
@@ -30,7 +30,6 @@ Linear algebra & abstract algebra (foundations for lattice theory)
 ```
 Programming: Rust | C | C++ | Python | Java
 Natural:     English (Native) | Russian (В1) | Spanish (A2)
-Goal:        Russian fluency via immersion in Bishkek, Kyrgyzstan
 ```
 
 ## 🎯 Trajectory
