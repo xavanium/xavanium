@@ -1,4 +1,4 @@
-# Jacob ⚛️ | Lattice Cryptography 🔒 | PhD Track 🧠 | Russian Speaker 🇰🇿
+# Valerie ⚛️ | Lattice Cryptography 🔒 | PhD Track 🧠 | Russian Speaker 🇰🇿
 
 ## 📐 Research Interests
 
@@ -9,13 +9,14 @@ Provable security & formal hardness reductions
 NIST PQC standards (ML-KEM, ML-DSA, SLH-DSA)
 ```
 
-## 📚 Currently Studying
+## 📚 Currently Taking
 
 ```
-CSC 134 – C++ Programming (FTCC)
-CSC 151 – Java Programming (FTCC)
-AP Pre-Calculus → building toward linear algebra & number theory
-CS50 - Harvard's Introductory Computer Science Course
+CMPINF 001 - First Year Seminar
+CMPINF 401 - Intermediate Programming
+MATH 220 - Calculus 1 → building toward linear algebra & number theory
+RUSS 103 - Intermediate Russian 1
+ENGCMP 200 - Seminar in Composition
 ```
 
 ## 📖 Working Through
