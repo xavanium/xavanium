@@ -43,14 +43,15 @@ Long-term: academic research or cryptography standards (NIST, IACR)
 
 ## ⚙️ Background
 
-Started in systems programming and low-level security (C, Rust, OS internals).
+Started out interested in systems programming and low-level security (C, Rust, OS internals).
 That foundation informs how I think about the gap between theoretical
-constructions and real-world implementations — useful for a theorist to understand.
+constructions and real-world implementations—useful for a theorist to understand.
 
 ## 🎮 A Few Other Things
 
 ```
 🤼 Massive WWE fan (Stone Cold is the GOAT)
-🎧 Bladee/Drain Gang is the coding soundtrack
+🛡️ Drainer 
 📊 Excel-certified (yes, really)
+⚠️ Hazard main on Overwatch
 ```
