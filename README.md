@@ -53,5 +53,6 @@ constructions and real-world implementations—useful for a theorist to understa
 🤼 Massive WWE fan (Stone Cold is the GOAT)
 🛡️ Drainer 
 📊 Excel-certified (yes, really)
+🇰🇿 Thinking about studying abroad at Nazarbayev University
 ⚠️ Hazard main on Overwatch
 ```
