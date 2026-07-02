@@ -12,11 +12,7 @@ NIST PQC standards (ML-KEM, ML-DSA, SLH-DSA)
 ## 📚 Currently Taking
 
 ```
-CMPINF 001 - First Year Seminar
-CMPINF 401 - Intermediate Programming
-MATH 220 - Calculus 1 → building toward linear algebra & number theory
-RUSS 103 - Intermediate Russian 1
-ENGCMP 200 - Seminar in Composition
+🌵Tumbleweeds for now...
 ```
 
 ## 📖 Working Through
