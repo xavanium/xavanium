@@ -12,11 +12,11 @@ NIST PQC standards (ML-KEM, ML-DSA, SLH-DSA)
 ## 📚 Currently Taking
 
 ```
-CMPINF 0001 - First Year Seminar
-CMPINF 0010 - Big Ideas in Computing and Information
-CMPINF 0401 - Intermediate Programming
-MATH 0220 - Analytic Geometry & Calculus 1
-ENGCMP 0216 - Seminar in Composition: Computers and Code 
+CMPINF 0001 - First Year Seminar ⭐
+CMPINF 0010 - Big Ideas in Computing and Information 🤯
+CMPINF 0401 - Intermediate Programming 🖥️
+MATH 0220 - Analytic Geometry & Calculus 1 📐
+ENGCMP 0216 - Seminar in Composition: Computers and Code 📖
 ```
 
 ## 📖 Working Through
